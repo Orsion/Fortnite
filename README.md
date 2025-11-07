@@ -6,7 +6,7 @@
 
   <h3 align="center">Fortnite</h3>
   <p align="center">
-    Archival project by Versonite
+    An archival project by <a href="https://github.com/Tectors">Tector</a> 
     <br/><br/>
     <a href="#acknowledgements"><strong>Acknowledgements</strong></a><br>
     <a href="https://github.com/Versonite/Fortnite/tree/main/.usmap"><strong>» Mappings</strong></a>
@@ -25,3 +25,5 @@
 
 Special thanks to **[GMatrixGames](https://github.com/GMatrixGames)** for research, tooling, and archival support.  
 → [Buy GMatrixGames a Coffee ❤️](https://ko-fi.com/gmatrixgames)
+
+<br/>
