@@ -8,7 +8,7 @@
   <p align="center">
     An archival project by <a href="https://github.com/Tectors">Tector</a> 
     <br/><br/>
-    <a href="#acknowledgements"><strong>Acknowledgements</strong></a><br>
+    <a href="#acknowledgements"><strong>✨ Acknowledgements</strong></a><br>
     <a href="https://github.com/Orsion/Fortnite/tree/main/.usmap"><strong>» Mappings</strong></a>
   </p>
 </div>
@@ -21,7 +21,7 @@
 
 </div>
 
-### Acknowledgements
+### ✨ Acknowledgements
 
 Special thanks to **[GMatrixGames](https://github.com/GMatrixGames)** for research, tooling, and archival support.  
 → [Buy GMatrixGames a Coffee ❤️](https://ko-fi.com/gmatrixgames)
