@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
-  <a href="https://github.com/Orsion/Fortnite">
-    <img src="https://github.com/Orsion/Fortnite/blob/main/Resources/Thumbnail.png?raw=true" alt="Logo" width="400" height="400">
+  <a href="https://github.com/FortXD/Fortnite">
+    <img src="https://github.com/FortXD/Fortnite/blob/main/Resources/Thumbnail.png?raw=true" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Fortnite</h3>
@@ -16,8 +16,8 @@
 <div align="center">
 <br/>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi?color=ff0de7&logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/t4ctor)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Orsion/Fortnite?style=for-the-badge&logo=&color=gold)](/stargazers)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi?color=ff0de7&logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/tectory)
+[![GitHub Repo stars](https://img.shields.io/github/stars/FortXD/Fortnite?style=for-the-badge&logo=&color=gold)](/stargazers)
 
 </div>
 
