@@ -6,7 +6,7 @@
 
   <h3 align="center">Fortnite</h3>
   <p align="center">
-    An archival project by <a href="https://github.com/Tectors">Tector</a> 
+    An archival project by <a href="https://github.com/Tectfy">Tector</a> 
     <br/><br/>
     <a href="#acknowledgements"><strong>✨ Acknowledgements</strong></a><br>
     <a href="https://github.com/Orsion/Fortnite/tree/main/.usmap"><strong>» Mappings</strong></a>
